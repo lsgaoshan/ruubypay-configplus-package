@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ruubypay-configx-core/ruubypay-configx-core.iml" filepath="$PROJECT_DIR$/ruubypay-configx-core/ruubypay-configx-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruubypay-configx-package.iml" filepath="$PROJECT_DIR$/ruubypay-configx-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruubypay-configx-web/ruubypay-configx-web.iml" filepath="$PROJECT_DIR$/ruubypay-configx-web/ruubypay-configx-web.iml" />
+    </modules>
+  </component>
+</project>
